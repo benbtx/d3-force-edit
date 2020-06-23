@@ -2,6 +2,8 @@
 基于https://github.com/benbtx/InteractiveGraph   
 包括编辑层级查询等（红楼梦关系网图）
 
+https://grapheco.org/InteractiveGraph/dist/examples/example1.html
+
 示例代码
 Step 1. download examples.zip: https://github.com/grapheco/InteractiveGraph/releases
 
